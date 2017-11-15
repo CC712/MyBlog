@@ -1,0 +1,6 @@
+[submodule "MyBlog-FE"]
+	path = MyBlog-FE
+	url = https://github.com/CC712/MyBlog-FE.git
+[submodule "MyBlog-BE"]
+	path = MyBlog-BE
+	url = https://github.com/CC712/MyBlog-BE.git
